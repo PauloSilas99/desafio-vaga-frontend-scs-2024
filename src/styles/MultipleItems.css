@@ -1,0 +1,58 @@
+body{
+    overflow-x: hidden;
+}
+.slick-list{
+    overflow: visible !important;
+}
+
+.CarItem{
+    background: transparent;
+    border-radius: 16px;
+    border: 1.5px solid rgb(68, 68, 68); 
+    width: 250px !important;
+    position: relative;
+}
+
+.CarItem h3{
+    color: rgb(51, 51, 51);
+    margin-top: 20px;
+}
+.CarItem button{
+    background-color: transparent;
+    border: 1.5px solid rgb(51, 51, 51);
+    border-radius: 14px;
+    width: 200px;
+    padding: 10px 12px;
+    cursor: pointer;
+    margin-bottom: 14px;
+}
+
+.DivIcones{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 14px 0px;
+}
+
+.icones{
+    display: flex;
+    justify-content: flex-start;
+    gap: 14px;
+    margin-left: 24px;
+}
+.icones span{
+    color: black;
+}
+
+.carroIcon{
+    position: absolute;
+    left: 18px;
+    top: -60px;
+    z-index: 999;
+}
+.upTop{
+    top: -80px !important;
+}
+.carroIcon img{
+    width: 200px;
+}
