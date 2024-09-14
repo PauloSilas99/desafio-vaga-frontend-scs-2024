@@ -1,8 +1,10 @@
-# React + Vite
+# Desafio Vaga Frontend SCS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Desafio:
+Criar (no mínimo utilizando HTML e CSS) uma landing page o mais próximo possível da página-exemplo do anexo
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Projeto:
+- Desenvolvido com React js
+- Utilizado componente carrossel "React Slick"
+- ícones svg desenvolvidos pelo Figma
+- Imagens utilizadas do Unsplash
