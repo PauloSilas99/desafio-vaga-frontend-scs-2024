@@ -13,16 +13,16 @@ function Header() {
 
             <nav>
                 <ul>
-                    <li>Home</li>
-                    <li>Sobre</li>
-                    <li>Tabela</li>
-                    <li>Fale Conosco</li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Sobre</a></li>
+                    <li><a href="#">Tabela</a></li>
+                    <li><a href="#">Fale Conosco</a></li>
                 </ul>
             </nav>
 
             <nav>
                 <ul>
-                    <li>Entrar</li>
+                    <li><a href="#">Entrar</a></li>
                     <li><img src={icon} alt="icon" /></li>
                 </ul>
             </nav>
